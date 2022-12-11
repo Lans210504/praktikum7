@@ -5,12 +5,6 @@
 `Kelas        :   TI.22.B2`
 `Mata kuliah  :   Bahasa Pemrograman`
 
-| NO |    DAFTAR ISI    |  LINK  |
-|----|----------------  |--------|
-|  1 |A. Latihan 1      |[Click](https://github.com/Lans210504/praktikum7#A-Latihan-1) |
-|  2 |B. Tugas Praktikum|[Click](https://github.com/Lans210504/praktikum7#B-Tugas-Praktikum) |
-|  3 |C. Penjelasan     |[Click](https://github.com/Lans210504/praktikum7#C-Penjelasan) |
-|  4 |D. Hasil Output   |[Click](https://github.com/Lans210504/praktikum7#D-Hasil-Output) |
 
 
 # A. Source Code
