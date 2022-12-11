@@ -1,4 +1,4 @@
-# labpy07
+
 # PRAKTIKUM 8 - TUGAS PERTEMUAN 12
 
 `Nama         :   Maulana ismail`
